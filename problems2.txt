@@ -1,0 +1,424 @@
+
+There are 100 apples in a basket. If we remove 10 apples from the basket, then how many apples will be left?
+
+A certain sum of money was divided among Amal, Kamal, and John. Amal got 25% more than Kamal got. John got 50% more than the total amount got by Amal and Kamal. If Kamal got $10, calculate how much money did John get. If 25% of a number is 30, what is the number?
+
+
+A rectangle has a length of 6 units and a width of 4 units. What is the perimeter of the rectangle?
+
+A boat can carry 400 kilograms. If the boat is carrying an empty barrel with a weight of 20 kilograms and a full barrel with a weight of 40 kilograms, what is the maximum number of barrels the boat can carry?
+
+If 3 times the quantity of x plus 7 is equal to 4 times the quantity of x plus 2, find the value of x.
+
+If you have $50 to invest and you can get 11% interest per year, how much money will you have in one year?
+
+A company decided to increase its annual profit by 15% this year. If the company's current profit is $200,000, what will be the company's profit next year?
+
+A vendor sells 50 apples. Each apple costs $1. The vendor gives out a $2 discount for each apple sold. How much money does the vendor make?
+
+A man is going to pay off his credit card balance of $5000. He is going to pay $200 every month. The interest rate on his credit card is 21% annually. 
+
+You decide to buy concert tickets for a group of people. The ticket price is $20. You have a budget of $1000. You want to find out how many tickets you can buy with your budget.
+
+A man starts walking from his home. He walks 10 km towards East. From there, he walks 6 km towards West. What is the distance from his starting point to his current position?
+
+If you can buy N books for the price of M books, what is the value of N? If M = 3 and the price of one book is $20, then find the value of N.
+
+
+If you had $200 to start. You spent $30 on bubblegum, $20 on a book, and $15 on a magazine. How much money is left?
+
+On a road that is 5 miles long, a car starts at one end and moves 3 miles down the road. Then the car backtracks 2 miles. How far is the car from the starting point?
+
+A 12-ounce can of soda costs $1.29. If you have $10.00 to spend, how many cans of soda can you buy?"
+
+A boat has a speed of 80 km/h and the current speed of the river is 10 km/h. If the boat is to go upstream, what will be the effective speed of the boat?"
+
+We have been given that the machine can produce 1500 pens per hour. If the company wants to produce 50,000 pens, we need to find out how many hours it will take.
+
+The company will need 34 hours to produce 50,000 pens. However, 33.333333333333336 hours doesn't make sense in this context, as time cannot be a fraction. Perhaps we made an error in our calculation.
+
+To find the area of a triangle, we can use the formula: Area = (base * height) / 2. In a right triangle, we can treat the two sides forming the right angle as the base and the height of the triangle (the side opposite the right angle). Let's say the base of the triangle is 6 units and the height of the triangle is 8 units.
+
+A large pizza has a radius of $r=8$ inches and a height of $h=7$ inches. The volume $V$ of a cylinder is given by the formula $V=\pi r^2h$. What is the volume of the pizza?
+
+A local farmer sells watermelons in two different ways: all at once in big bags, or individually wrapped. A customer bought 2 big bags of watermelons, each containing 15 watermelons, and 6 bags of individually wrapped watermelons, each containing 8 watermelons. How many watermelons did the customer buy in total?
+
+
+The distance from the center of the Earth to the center of the Moon is approximately 384,400 km. If a rocket is launched from the Earth's surface to the Moon's surface, its altitude above the Earth's surface is the difference in distance between the center of the Earth and the center of the Moon, and the radius of the Earth. The radius of the Earth is 6,378 km. What is the altitude of the rocket when it reaches the Moon's surface?
+
+Determine the distance between the points $P_1(-2,5)$ and $P_2(3, -1)$ in the coordinate plane. The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ in a coordinate plane is given by the formula $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.
+
+The radius of a circle is 15 centimeters. Find its circumference. The formula for the circumference of a circle is 2 * π * radius.
+
+A train travels at a speed of 90 kilometers per hour. If the train can move 720 kilometers in 4 hours, how many hours will it take for the train to travel 270 kilometers?
+
+The distance from London to Paris is 375 km. A train travels from London to Paris at a speed of 55 km/h. How long does it take for the train to travel from London to Paris?
+
+We have a pool of 100,000 people. 24% of the people in the pool have a college degree, and 5% of the people in the pool have an advanced degree. How many people have a college degree?
+
+If the length of a rectangle is 5 units and the width is 3 units, determine the perimeter of the rectangle.
+
+At the rate of $10 per hour, how much does a 40-hour work week cost?
+
+You are going to bake cookies. You have 150 grams of butter, and you need 100 grams of butter for each cookie. How many cookies can you bake?
+
+A sum of money was divided among three persons, the second person received 4 times as much as the first and the third person received $25 more than the second person. If the sum of the money distributed was $77, how much did each person receive?”
+
+There are 100 students in a class. 35 of them study math, 25 of them study history, and 42 of them study science. Moreover, 10 students study both math and history, 8 students study both history and science, and 11 students study both math and science. In addition, 5 students study all three subjects.
+
+After your last haircut, you went to the barber shop every 14 days. If you were last there on December 12, 2011, on what day and date will you next go to the barber?
+
+The price of a t-shirt is $20. If you buy 2 or more shirts, you get a discount of 20%. If you buy 3 or more shirts, you get a discount of 30%. If you buy 4 or more shirts, you get a discount of 40%. Now, you want to buy 5 shirts. How much will it cost?
+
+You have a rectangle of length 6 cm and width 4 cm. Calculate the rectangle's perimeter and area.
+
+You are 20 years old, and your friend is 10 years old. How many years do you need to wait until you are twice as old as your friend?
+
+After a hard day of work, you decide to reward yourself with a nice glass of wine. You walk into a wine shop and see a sign that says "Vino-Delite! 2 for 150 pesos. At the wine shop, you also see another sign that says "Buy one, get one free". Determine which deal is cheaper for you to take and print the answer.
+
+A cyclist is moving from point A to point B, a distance of 100 km. He has to decelerate to a complete stop at point B. Assuming a deceleration rate of 5m/s^2, how long does it take him to stop?
+
+A train is travelling at a speed of 100 km/h. If it travels for 2 hours, how much distance will it cover?
+
+If a car is traveling at 60 miles per hour and it takes 10 minutes to travel from one point to another, how many miles did it travel?
+
+On a vacation in Europe, you decide to buy some euros to pay for your holiday. You need 150 euros and you have 100 euros. You can exchange dollars for euros at a rate of 1 dollar equals 0.88 euros. You have 500 dollars, how many euros will you have once you exchange all your dollars for euros?
+
+A person has 100 dollars. He buys a car for 50 dollars and then buys a house for half of the money he had left. How much money does he have left?
+
+A swimming pool can be filled by a hose in 4 hours. Another hose can fill the same pool in 2 hours. If both hoses are open, how long does it take to fill the pool?"
+
+A 52-year-old man decides to quit smoking. He has been smoking 20 cigarettes a day for 40 years. How many cigarettes did he smoke in his entire life?
+
+A car manufacturing company has two factories: Factory A produces 55% of the total cars, and Factory B produces the remaining cars. If the total number of cars produced in a year is 150,000, how many cars does Factory B produce?
+
+There are 1000 students in a school. 500 students study Mathematics, 450 students study Physics, and 200 students study both Mathematics and Physics. How many students study neither Mathematics nor Physics?"
+
+A rectangle's length is three times its width. If the perimeter of the rectangle is 40 units, what are the rectangle's length and width?
+
+Peter is going to a concert and he is trying to figure out how much he should take from his savings account that has $1000 in it for the concert. He wants to take a combination of $50 and $20 bills to pay for the concert tickets. He wants to have twice as many $50 bills as $20 bills. How much money should Peter take from his savings account?
+
+What is the difference between the sum of the squares of the first ten natural numbers and the square of the sum?
+
+Assume that the cost of the item in the store is 100 dollars. The store offers a discount of 20 percent off the original price. What is the final price of the item after the discount?
+
+During a sale, a dress was marked down $12, which represents a 20% discount off the original price. What was the original price of the dress?
+
+A shopkeeper buys 200 watermelons at Rs. 20 per piece. He sells 80% of the total watermelons at Rs. 30 per piece and the rest at Rs. 20 per piece. Determine the profit/loss the shopkeeper makes?
+
+If a company sells 1000 chairs per month at a price of 300 dollars each, and the cost of each chair is 150 dollars, what is the monthly profit?
+
+If you purchase a pack of 24 pens for $11.99 and then sell them individually at a price of $0.50 each, what is the profit you make from selling the pens?
+
+The product of two numbers is 770 and the sum of the two numbers is 50. Find the two numbers.
+
+A boy bought a pen for $2 and sold it to a girl for $3. What is the profit the boy made?
+
+A certain number plus three times the number is 44. What is the number?. If a boat can travel 400 kilometers on a full tank of gas, how many liters of gas does it need to travel 300 kilometers?
+
+You are given a number, N. Find the remainder when N is divided by 7.
+
+The problem: You are given two integers, L and R. Write a python program to find the sum of the all the integers from L to R The volume of a rectangular solid (also known as a rectangular prism) is found by multiplying the length times the width times the height. If a rectangular solid has a length of 6 inches, a width of 5 inches, and a height of 4 inches, what is the volume?
+
+This problem is asking for the sum of the ages of two friends, given that one friend is three years older than the other. Let's represent the age of the younger friend as x. Therefore, the age of the older friend would be x + 3. The sum of their ages is x + (x + 3) = 2x + 3. The problem states that this sum is 27, so we can write the equation 2x + 3 = 27. Solving this equation will give us the value of x.
+
+The value of y varies directly with x, and y = 24 when x = 3. What is the value of y when x = 5?"
+
+A class has 51 students. The students are divided into 3 groups, with each group having an equal number of students. What is the number of students in each group?
+
+A ladder 10 m long is resting against a wall. The bottom of the ladder is 6 m from the wall. How high up the wall is the top of the ladder?
+
+The sum of three consecutive odd numbers is 27. What is the middle number?
+
+There are 60 apples and 40 oranges in a basket. If 20% of the apples and 25% of the oranges are rotten. How many fruits are rotten?"
+
+The perimeter of a rectangle is 110. The length of the rectangle is 20 more than the width. What are the dimensions of the rectangle?
+
+A woman who is 1.82 m tall stands in front of a plane mirror. How far away from the woman must the mirror be placed so that she can see her entire height in the mirror?The answer is $\boxed{0.91}$.
+
+A rectangular garden has a length of 180 feet, a width of 100 feet, and a uniform depth of 8 feet. What is the volume of the garden in cubic feet?
+
+A company was asked to provide a grant of 420,000 USD. The company was able to raise 350,000 USD from their own resources. The company was also able to secure a loan of 1,250,000 USD. How much more is needed to reach the grant amount?
+
+A group of friends went to the movies and decided to split the cost of admission evenly. If the total cost of admission was $26.00 and there were 5 people in the group, how much does each person need to contribute?
+
+The area of a square is 49 square cm. What is the length of each side?
+
+The sum of two numbers is 37 and the smaller number is 11 less than the larger number. Find the two numbers.
+
+The area of a triangle is 1/2 base * height. If height = 4 cm and the base = 6 cm. What is the area of the triangle?
+
+The length of a rectangle is 8 cm and the width is 5 cm. What is its perimeter?
+
+
+
+You are given the following equation: 5x + 3y = 7 , 3x + 5y = 11. You are to find the values of x and y that satisfy the given equations.
+
+A school has 1050 students, and the school administration wants to divide them into smaller groups for the day. If each group should have 45 students, how many groups will be formed?"
+
+to determine the value of x in the equation  4x + 4 = 20.
+
+You are given two positive integers a and b, and you are to compute the last digit of a^b.
+
+The problem provides two positive integers a and b. Let's represent a and b as variables a and b.
+
+A man traveled 6 miles per hour for 3 hours. How far did he travel?
+
+The weight of a baby is decreasing as per the following function: w(t) = 3.5 - 0.1t. where w(t) is the weight of the baby in kg at time t (in days). A doctor wants to know the weight of a baby at 2 days, 7 days, and 10 days.
+
+The length of a rectangular garden is 3 times its width. If the perimeter of the garden is 72 meters, what are the dimensions of the garden?
+
+The total cost of a trip for two persons to a museum is $30. If there were three persons, the cost of the trip would be $45. Find the fixed cost of the trip and the cost of the visit to the museum per person.
+
+The fixed cost of the trip is $0 and the cost of the visit to the museum per person is $15. However, this doesn't seem correct. Let's reevaluate the equations.
+
+A man starts to work for a company at the age of 16 and after 4 years of work,he gets married at the age of 20. After 2 years of marriage, his first child is born. Determine the current age of the man if the age of his first child is 8.
+
+A car with a mass of 2000 kilograms is moving north at a speed of 20 meters/second. It collides with another car with a mass of 3000 kilograms that is initially stationary. After the collision, the two cars stick together and move off as one. What is their common speed after the collision?
+
+If the weight of Alex is 70 kilograms and the weight of Billy is 80 kilograms, what is the total weight of Alex and Billy?
+
+Four friends went for dinner and they ordered a meal each. The total bill came to $75.00. They decided to split the bill equally among the four of them. How much does each person need to pay?
+
+If you have 29 apples, and you give 18 apples to your best friend, how many apples will you have left?
+
+The volume V of a sphere is given by the formula: V = 4/3 π r^3 . Calculate the volume of a sphere with radius 5cm. Use the value of π = 3.142. Round the answer to the nearest two decimal places.
+
+A train with 40 passengers is traveling from New York to Washington. The train is traveling at a speed of 60 miles per hour and the distance from New York to Washington is 120 miles. The passengers each have a carry-on bag that weighs 8 pounds. The train itself weighs 10,000 pounds and has a total capacity of 150,000 pounds. What is the total weight of the train and the passengers' bags?
+
+
+A rectangle has a length of 10 units and a width of 5 units. Find the perimeter and the area of this rectangle."
+
+A rectangular plot of land is 50 ft wide and 75 ft long. A small flower garden is to be planted inside the rectangular plot of land, leaving 2 ft all around it. The garden will be rectangular as well. What are the dimensions of the garden?
+
+If a car travels at a speed of 50 mph for 2 hours, how far does it travel?
+
+A student gets a score of 80% on a math test and another score of 90% on a science test. What is the average of these two scores?
+
+find the solution to the equation 5x - 6 = 4x + 7
+
+The current temperature at the top of Mount Everest is -59 degrees Fahrenheit. To convert this temperature to Celsius, we use the formula C = 5/9 * (F - 32), where F is the Fahrenheit temperature and C is the Celsius temperature. Calculate the Celsius temperature at the top of Mount Everest.
+
+The distance between two cities is 200 km. A car travels from one city to another with a speed of 50 km/h. How many hours will it take for the car to travel this distance?
+
+After a long winter of studying, you've decided to go on a shopping spree to reward yourself. You decide to go to a local electronics store where you find a pair of jeans that you've been eyeing for $45.00, and a pair of shoes that you've also been wanting for $60.00. You also find a backpack that you would like to buy for $25.00. If you decide to buy all three items, how much money will you need to pay?
+
+You are to create a class called Car with the following attributes: model, year, color and price. The Car class should have a method called full_car_details() that returns all the details of the car.
+
+Create an object of the Car class with the following details: Model: Audi A4: Year: 2021 : Color: Black : Price: 50000 dollars
+
+Then print the full details of the car object.
+
+A circular table has 6 chairs evenly spaced around it. If 6 guests are seated at the table, in how many ways can the guests be seated?
+
+A car travels at an average speed of 55 miles per hour. If the car traveled for 2 hours, how many miles does the car travel?
+
+The area of a rectangle is given by $A = ab$ where $a$ and $b$ are the length and width of the rectangle. If we know that the length of a rectangle is twice its width and the area is 256 square meters, what are the dimensions of the rectangle?
+
+The ratio of red to blue balls is 3:5. If there are 24 blue balls, how many red balls are there?, A farmer has 2400 dollars to start a farm. After one year, he earns 1800 dollars. But, he also has to pay $640$ dollars for the farm's expenses in that year. What is the farmer's profit for that year?
+
+If a student scores 80% on a test and then scores 90% on a retest. What is the average of the two scores?
+
+The distance between two cities is 120km. A bus covers four-fifth of the distance from city A to city B. What is the distance covered by the bus?
+
+The sum of 3 consecutive odd numbers is 75. What is the middle number?
+
+The speed of light in a vacuum is approximately 3.00 x 10^8 m/s. If a star is 2.6 x 10^16 m away, how many minutes does it take light to travel to us from the star?"
+
+Hint: Use the formula time = distance / speed.
+
+The length of a rectangular garden is 12 m and the width is 8 m. A rectangular pavement of length 8 m and width 4 m is built inside the garden. The area of the garden is to be calculated.
+
+A square pyramid has a height of 12 units and a base with side length of 8 units. What is the volume of the pyramid?
+
+The length of a rectangle is 5 cm longer than the width. If the perimeter of the rectangle is 34 cm, what are the dimensions of the rectangle?
+
+The length of the longest string among Alice, Bob and Charlie's strings is 7.
+
+There are 72 balls in a box. If 2/3 of the balls are red and the rest are blue. How many blue balls are there in the box?
+
+A car has a speed of 120 km/h. If the car has traveled for 2 hours, how far has the car traveled?
+
+There are 235 boys and 245 girls in a school. If 20% of the boys like to play football and 40% of girls like to play football, then determine the total number of students who like to play football.
+
+A father was born in 2000. His son was born in 2016. Calculate the difference in years between the father and the son.
+
+You are standing at the edge of a cliff 400 feet above the ground. You throw a rock straight down at 30 feet per second. What is the initial position of the rock?
+
+A person who won a lottery ticket for $10,000,000 decided to invest half of the amount in a bond that pays 5% interest annually. The remaining half will be invested in a stock that yields a return of 10% annually. Calculate the annual income of the person from these investments.
+
+A small firm produces both AM and AM/FM cars. The sales of company's cars in one month are 175. The sales of AM cars are 30 less than the sales of AM/FM cars. How many AM cars were sold? How many AM/FM cars were sold?
+
+Find the smallest positive integer n such that , n^3 - 2n^2 - n + 2 = 0
+
+In a garden, there are 250 apple trees. If each apple tree produces 55 apples on average, how many apples are there in total?
+
+The population of a town is 6512. In the last 12 months, the population has increased by 356 people. What will the new population be?
+
+Let's say we have a triangle with base b = 10 cm and height h = 5 cm. We want to find its area. The formula to calculate the area of a triangle is: area = 1/2 * base * height. We will plug the base and height into this formula and calculate the area of the triangle.
+
+The area of the triangle is 25 square cm. 
+
+A 100 meters long tape is used to measure the length of a room. The room is not a perfect rectangle so the measurements along the width and the length are slightly different. The length of the room is measured to be 25 meters and the width is measured to be 20 meters.
+
+Joe and his friends are playing a game. They have a sack with 60 eggs. They each get 6 eggs. How many people are playing the game?
+
+If one pizza with a radius of 6 inches costs $13 and a cylinder has the same radius and a height of 10 inches, what is the cost of the cylinder if the cost is proportional to the volume?
+
+There are 100 fish in the pond. If 20% of them are catfish, and another 30% are trout, and the rest are bass. How many bass are in the pond?
+
+calculates the number of days from September 3, 2016 to November 10, 2016."
+
+In 2016, the number of children who attended the "Children Discovery" Museum in the United States was 1,050,000. This was an increase of 11% over the number of children who attended the museum in 2015. What was the number of children who attended the museum in 2015?"
+
+A mother has 3 children. The oldest child is 5 years old. The second child is 3 years younger than the oldest child. The youngest child is half the age of the second child. What is the total age of the three children?
+
+The area of the square is 25 square centimeters. The answer is: 25
+
+A box contains a certain number of pencils. If you add 13 more pencils, you will have 35 pencils. How many pencils are in a box?
+
+Amy purchased 2500 shares of stock at 12.50 a share. She then sold the stock at 14.20 a share. What is her profit?"
+
+A bag contains 10 apples and 15 oranges. If we pick 5 pieces of fruit randomly, what is the probability of picking 3 apples and 2 oranges?
+
+A 90-kg man eats a 150-g bar of chocolate. He immediately starts to sweat, and the loss of water through his pores is 0.5%. If he weighs 90 kg initially, what is his weight after the loss of water through his pores?
+
+I need to buy 3 pens for $2.50 each. What is the total cost?
+
+If you have 500 in your bank account, and you deposit an additional $100, how much money will you have in total?"
+
+A certain company pays its employees every Friday and the company pays a salary of $1000. However, some employees are paid weekly and some are paid biweekly. If there are 30 employees paid weekly and 20 employees paid biweekly, what is the total amount of money the company pays the employees every Friday?
+
+You have a rectangular garden that measures 7 meters by 4 meters. You want to put a fence around the garden excluding the back 4 meters side. What is the length of the fence?
+
+The area of a square is 100 cm²`. What is the length of each side?
+
+A certain number was increased by 50% and then decreased by 50%. If the final result is 22.5, what was the original number?
+
+Two cars are racing each other. Car A is traveling at a speed of 60 miles per hour, and Car B is traveling at a speed of 50 miles per hour. If the distance between the two cars is 100 miles, how long does it take for the cars to collide?
+
+A number decreased by 30% of itself is 28. What is the number?
+
+The time of a journey by train is 10 hours. If the train runs at an average speed of 45 km/h, how far has the train travelled?
+
+The distance from the moon to earth is 384,400 km. The speed of light is 300,000 km per second. How many minutes does it take for the light from the moon to reach the earth?
+
+If a person can run 100 meters in 10 seconds, what is the speed of that person in kilometers per hour?"
+
+The following problem demonstrates the usefulness of the distributive property. The distributive property states that for all real numbers a, b, and c: a(b + c) = ab + ac. The problem below uses this property to simplify an algebraic expression. Solve the following problem using the distributive property.
+
+Simplify the expression: -3(4a + 7)
+
+If the circumference of a circle is 25.12 cm, what is the radius?
+
+There are 6 friends who want to share a pizza of 9 pieces. If each of them will eat the same amount of pizza, how much pizza will each friend get?
+
+The speed of a car is 50 miles per hour. If the car travels for 4 hours, how many miles does it travel?
+
+If you have 2000 dollars, and you invest in a fund that pays 9% annual interest, how much money will you have in 4 years?
+
+The cost of a chair is $12 and the cost of a table is $30. If you have $500 to spend, how many chairs and tables can you buy, You can use sympy to solve this problem.
+, 
+If the ratio of boys to girls is 3:2 and their sum is 30, how many boys are there?
+
+You are given that a number, when divided by 7, gives a remainder of 5. What will be the remainder when the square of this number is divided by 7?
+
+The problem of dividing fractions is straightforward. To divide by a fraction, multiply by its reciprocal. The reciprocal of a fraction is obtained by interchanging the numerator and the denominator. For example, the reciprocal of 5/7 is 7/5. So, a/b divided by c/d equals a/b multiplied by d/c.
+
+A father is 28 years older than his son. In 5 years, the father will be 3 times as old as his son. How old is the father and the son?
+
+If the price of one apple is $1 and the price of one orange is $0.50, and you have $5 to spend. If you want to buy 3 apples, how many oranges can you buy with the remaining money? (Please note that the answer should be a whole number)
+
+The length of a rectangle is 4 meters and the perimeter is 18 meters. What is the width of the rectangle?
+
+The sum of the first n positive integers is given by the formula: n*(n+1)/2. So, to find the sum of the first 50 positive integers, we can substitute n=50 into the formula.
+
+The sum of the first 50 positive integers is 1275. But the answer should be a whole number. Let's correct the code.
+
+A school wants to organize a basketball game in a field of 90*60 meters with a goal of 10 meters in from each side. The school has a budget of $2000 to spend on the organization of the game. The school wants to spend 20% of the budget on tickets, 30% on food, 30% on advertising, and the remaining amount on the organization of the game. The school wants to divide the area of the field into 10 equal parts for different activities such as shooting, layups, free throws, and three-point shots. How many square meters of area will each part have?
+
+The total area of the field is 90*60 = 5400 square meters.
+
+The amount to spend on organization of the game is 2000 * (1 - 0.2 - 0.3 - 0.3) = 2000 * 0.2 = $400.
+
+The total area for activities is 400 square meters. Each part of the field will have an area of 400 / 10 = 40 square meters.
+
+To buy a new laptop, a customer has $500 to spend. The laptop costs $450. The customer has a coupon for $50 off. This means the customer will only pay the difference between the price of the laptop and the value of the coupon.
+
+You are to determine the value of x for the given equation: 3x + 7 = 25
+
+The area of a parallelogram is given by the formula A=bh, where b is the base and h is the height. If the base of a parallelogram is 3 cm and the height is 4 cm, what is its area?
+
+A farmer is planting a row of apple trees. He is planning to put 2 apple trees in each row. If there are 5 rows of apple trees, how many apple trees will be there in total?
+
+A farmer has enough money to buy 500 heads of cattle at $100 per head. If he decides to keep 100 of them, and sell the rest. What is the total amount of money the farmer has to buy the cattle?
+
+A man has $250 in his pocket and he buys 28 eggs at $1.25 each. How much money does he have left?
+
+The sum of three consecutive even numbers is 210. What are the three numbers?
+
+The sum of five consecutive positive integers is 400. What is the middle number in the sequence?
+
+If four times a number plus three times another number is equal to 29, and three times the first number plus twice the second number is equal to 23, what are the two numbers?
+
+A rectangular flower garden with a length of 60 meters and a width of 20 meters is to be surrounded by a sidewalk of uniform width. The area of the garden including the sidewalk is 840 square meters. What is the width of the sidewalk?
+
+In a rectangular field, a length is 40 yards and a width is 20 yards. What's the area of the field?
+
+A man initially has $100 in his pocket and each day he earns $10. After 10 days, how much money does he have?"
+
+There are 1280 students in a school. If 22% of them are enrolled in an art class. How many students are enrolled in the art class?
+
+Your task is to find the area of a rectangle with length 10 meters and width 5 meters.
+
+A team of 30 people is working on a project. Half of the team members are women, and the rest are men. Half of the women are single, and the rest are married. There are 10 married women on the team. How many married men are there on the team?
+
+Calculate the area of a circle with a radius of 5 cm.
+
+The area of the circle is $25\pi$ square centimeters. However, we are asked to provide a positive numerical answer, so we'll evaluate $\pi$ as approximately $3.14159$:
+
+We have a square with a side length of 5 units. We then draw a circle circumscribed about the square.
+
+What is the area of the circle? (π=3.14)"
+
+If a person runs 10 miles per day for 7 days, how many total miles did that person run?
+
+John can paint a room in 6 hours. Mary can paint the same room in 4 hours. How long will it take for them to paint the room together?
+
+In 2010, the number of students in a school was 2000. In 2011, the number of students increased by 10%. In 2012, the number of students decreased by 5% from the number of students in 2011
+
+Calculate the surface area of a sphere with a diameter of 10 cm.
+
+Use the formula for the surface area of a sphere: $A = 4\pi r^2$ where $r$ is the radius of the sphere. The radius of the sphere is half the diameter, so $r = \frac{d}{2}$.
+
+The sum of two consecutive odd numbers is 56. What are the two numbers?
+
+In a class of 30 students, 15 of them are boys and the rest are girls. On a given day, temperature was recorded as follows: 12 boys were absent while 18 girls were present. Calculate the total number of students present on that day.
+
+A car is traveling along a straight road at a constant speed of 60 miles per hour. The car needs to travel a total distance of 180 miles.What is the total time it takes for the car to travel this distance?
+
+Molly makes and sells necklaces. She buys each necklace for $15. She wants to sell each necklace for $20. She sells 100 necklaces a day. Find the profit she makes each day.
+
+A factory's production line produces 250 pencils a minute. If the factory is open for 8 hours a day, how many pencils does it produce in a day?
+
+In a race, a cheetah runs 15 meters in 3 seconds. What is the cheetah's speed in meters per second?
+
+Find the value of x in the following equation: 2x + 3 = 7
+
+The length of a rectangle is 5 more than twice the width. If the perimeter of the rectangle is 30 units, find the length and width of the rectangle.
+
+In a school fair, students sell candies to raise money. The school fair manager wants to raise a total of 2000 dollars. If each student can sell 10 candies at 2 dollars each. How many students are needed to raise the required amount?
+
+In a farm there are 48 cows and 24 horses. If each cow eats 20 pounds of hay per day and each horse eats 50 pounds of hay per day, how much total hay do the cows and horses eat in one day?
+
+The temperature in a particular town was 71 degrees at 6 a.m. The temperature dropped 4 degrees during the day. What was the temperature at 6 p.m.?
+
+Sam has a total of 140 candies. He gave 28 candies to his friend. He also gave 16 candies to his mom. How many candies does Sam have left?
+
+A triangle has a base of 5 cm and a height of 3 cm. What is its area
+
+
+
+
+
+
